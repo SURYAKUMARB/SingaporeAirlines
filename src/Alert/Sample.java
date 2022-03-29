@@ -44,7 +44,7 @@ public static void main(String[] args) throws InterruptedException {
 	
 ////                                                              3. Prompt alert
 	
-	
+	System.out.println("Git Code Insertrd ");
 	
 	driver.findElement(By.xpath("(//a[contains(@data-toggle,'tab')])[3]")).click();
 	Thread.sleep(3000);
